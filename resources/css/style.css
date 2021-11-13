@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    color:rgb(41, 41, 41);
+    font-weight: bolt;
+    font-size:18px;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    margin-bottom:40px;
+}
+
+form {
+    text-align: center;
+}
+
+
+
+.tableFormat table{
+    margin: 10px auto ;
+
+}
+
+th, td {
+    text-align: center;
+    border: solid 1px rgb(82, 206, 185);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius:  10%;
+}
+
+
+.formField {
+    margin-bottom: 60px;
+}
+
+
+
